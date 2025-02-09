@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "age": 28,
+      "city": "New York"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "age": 34,
+      "city": "Los Angeles"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "email": "michaelj@example.com",
+      "age": 25,
+      "city": "Chicago"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emilyd@example.com",
+      "age": 31,
+      "city": "Houston"
+    },
+    {
+      "id": 5,
+      "name": "Robert Brown",
+      "email": "robertb@example.com",
+      "age": 40,
+      "city": "Phoenix"
+    },
+    {
+      "id": 6,
+      "name": "Jessica Wilson",
+      "email": "jessicaw@example.com",
+      "age": 27,
+      "city": "Philadelphia"
+    },
+    {
+      "id": 7,
+      "name": "David Martinez",
+      "email": "davidm@example.com",
+      "age": 30,
+      "city": "San Antonio"
+    },
+    {
+      "id": 8,
+      "name": "Sarah Anderson",
+      "email": "saraha@example.com",
+      "age": 29,
+      "city": "San Diego"
+    },
+    {
+      "id": 9,
+      "name": "Christopher Thomas",
+      "email": "christophert@example.com",
+      "age": 35,
+      "city": "Dallas"
+    },
+    {
+      "id": 10,
+      "name": "Amanda White",
+      "email": "amandaw@example.com",
+      "age": 32,
+      "city": "San Jose"
+    }
+  ]
+  
